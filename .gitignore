@@ -4,6 +4,10 @@
 *.ap_
 *.aab
 
+# Project files
+*.iml
+.idea
+
 # Files for the ART/Dalvik VM
 *.dex
 
